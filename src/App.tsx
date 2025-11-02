@@ -5,6 +5,8 @@ import Online from './Online';
 import Card from './Card';
 import DateList from './DateList';
 import {Price} from './Price';
+import Search from './Search';
+import ProductFilter from './UseStateFunc';
 
 export default function App() {
   return (
@@ -15,6 +17,8 @@ export default function App() {
       <Card />
       <DateList />
       <p className='text-center mt-20'>{Price(10)}</p>
+      <Search />
+      <ProductFilter />
     </>
   )
 }
