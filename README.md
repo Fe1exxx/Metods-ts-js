@@ -76,7 +76,7 @@
 
 ## Контакты
 
-- **Email**: `maxas1488@gmail.com`  
+- **Email**: `turchin2003@outlook.com`  
 - **Telegram**: `@fex_d`  
 - **GitHub**: [@Fe1exxx](https://github.com/Fe1exxx)  
 - **Портфолио**: [fe1exxx.github.io/Portfolio](https://fe1exxx.github.io/Portfolio/)
